@@ -388,6 +388,9 @@ body {
   padding: 1rem;
   font-size: 3.5rem;
   color: var(--color-white);
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
 /*.wrapper-projects{
